@@ -1,0 +1,48 @@
+		body {
+    background-color: #ccf5f5;
+}
+
+
+
+#gameholder {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    width: 600px;
+    height: 150px;
+   
+}
+		.penguin1 {
+    width: 200px;
+    height: 200px;
+    float: left;
+    
+}
+
+	
+.yeti {
+    width: 200px;
+    height: 200px;
+    float: left;
+    
+}
+.penguin1:hover {
+    background-image:url("mound_1_hover.png");
+    cursor: pointer;
+}
+
+
+.yeti:hover {
+    background-image:url("mound_1_hover.png");
+    cursor: pointer;
+}
+.penguin1:active {
+    background-image:url("penguin_1.png.");
+}
+
+.yeti:active {
+    background-image:url("yeti.png.");
+}
